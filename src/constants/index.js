@@ -1,1 +1,1 @@
-export const apiKey = '%Enter_Your_API_Key_Here% (without %)';
+export const apiKey = 'Enter_Your_API_Key_Here';
